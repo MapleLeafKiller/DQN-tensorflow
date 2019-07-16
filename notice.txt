@@ -1,0 +1,2 @@
+1. The original project doesn't has a requirement.txt ,the requirement.txt is created following https://github.com/devsisters/DQN-tensorflow/issues/44
+
